@@ -1,79 +1,79 @@
 const perguntas =[
   {
-    enunciado:"1" ,
+    enunciado:"1)Em uma entrevista de emprego,como você responde o recrutador?" ,
     alternativas[
   {
-    texto"" ,
-    afirmação""
+    texto"A) direto e prévio, dizendo oque realmente sabe " ,
+    afirmação"Você é objetivo(a) e direto(a), comunicando com clareza aquilo que realmente sabe. "
   },
       {
-        texto"" ,
-        afirmação""
+        texto"contando histórias e enrolando nas dúvidas sobre você" ,
+        afirmação"Você prefere contar histórias longas e, quando não tem certeza sobre algo, acaba enrolando nas respostas para ter mais glamor."
       }
       ]
       },
       {
-         enunciado:"2" ,
+         enunciado:"2)Você tem procurado melhorar suas habilidades?" ,
     alternativas[
   {
-    texto"" ,
-    afirmação""
+    texto"A) Sim, procuro sempre aprender mais e melhorar minhas habilidades" ,
+    afirmação"Está sempre em busca de aprender mais e se desenvolver continuamente."
   },
       {
-        texto"" ,
-        afirmação""
+        texto"Sim, mas apenas oq é exigido" ,
+        afirmação"Busca melhorar apenas o que é necessário sem novos conhecimentos."
       }
       ]
       },
        {
-          enunciado:"3" ,
+          enunciado:"3)oque é mais valorizado por você na organização do trabalho?" ,
     alternativas[
   {
-    texto"" ,
-    afirmação""
+    texto"trabalho em equipe" ,
+    afirmação"Valoriza o trabalho em equipe e acredita na força da equipe"
   },
       {
-        texto"" ,
-        afirmação""
+        texto"competição entre colegas" ,
+        afirmação"se importa com o ser unico e não com o resultado"
       }
       ]
        },
        {
-         enunciado:"4" ,
+         enunciado:"4) Valoriza a competição entre colegas como forma de se destacar." ,
     alternativas[
   {
-    texto"" ,
-    afirmação""
+    texto"Transparência na comunicação" ,
+    afirmação"Acredita que a transparência na comunicação é essencial para um bom ambiente"
   },
       {
-        texto"" ,
-        afirmação""
+        texto"hierarquia rígidas" ,
+        afirmação"Acredita que hierarquias rígidas são fundamentais para manter a ordem no trabalho."
       }
       ]
       },
       {
-         enunciado:"5" ,
+         enunciado:") 5)Se você cometesse um erro no trabalho, oque você faria? :" ,
     alternativas[
   {
-    texto"" ,
-    afirmação""
+    texto"Esconder o erro e tentar resolver sozinho" ,
+    afirmação"se mantém isolado evitando o julgamento e a ideia de errar"
   },
       {
-        texto"" ,
-        afirmação""
+        texto"Assumir e comunicar ao superiores" ,
+        afirmação"entender oque fez e buscar acertar ou arrumar o erro"
       }
       ]
       },
         {
-       enunciado:"6" ,
+       enunciado:"6) Na hora de buscar feedback sobre o desempenho, o que você prioriza?" ,
     alternativas[
   {
-    texto"" ,
-    afirmação""
+    texto"ouve críticas" ,
+    afirmação"Aceita críticas construtivas e usa isso para melhorar"
   },
       {
-        texto"" ,
-        afirmação""
+        texto"se mantém em suas próprias ideias" ,
+        afirmação"Prefere sempre defender o próprio ponto de vista diante de críticas."
       }
       ]
       },
